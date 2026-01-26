@@ -2,6 +2,8 @@
 
 Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
 
+Note: case studies are anonymized (organization names and private code/data are omitted).
+
 - Strengths: experiment design, feature engineering, robust validation, and stakeholder translation.
 - Domains: sports performance + commercial analytics (anonymized case studies below).
 - Toolbox: Python (polars/pandas, scikit-learn), R (tidymodels/easystats, Shiny), SQL (advanced), dashboards (Shiny/Dash), Docker, CI/CD.
