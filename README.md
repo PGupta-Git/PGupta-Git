@@ -5,7 +5,7 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 Note: case studies are anonymized (organization names and private code/data are omitted).
 
 - Strengths: experiment design, feature engineering, robust validation, and stakeholder translation.
-- Domains: sports performance + commercial analytics (anonymized case studies below).
+- Domains: sports performance + commercial analytics.
 - Toolbox: Python (polars/pandas, scikit-learn), R (tidymodels/easystats, Shiny), SQL (advanced), dashboards (Shiny/Dash), Docker, CI/CD.
 
 ## Featured work
@@ -24,6 +24,7 @@ Note: case studies are anonymized (organization names and private code/data are 
 - Engineered new "availability" features with domain experts, replacing legacy KPIs with more predictive signals.
 - Built forecasting models and automated reporting workflows, saving ~15 hours/week and reducing data retrieval latency by ~30%.
 - Delivered executive dashboards for decision-making (market sentiment, product performance, performance monitoring).
+- Led cross-functional delivery (Agile/Scrum) and bridged data engineering and non-technical stakeholders.
 
 ## How I work (analysis/experimentation)
 
@@ -40,3 +41,4 @@ Note: case studies are anonymized (organization names and private code/data are 
 ## Contact
 
 - Email: palashcscs@outlook.com
+- LinkedIn: https://www.linkedin.com/in/pg-cscs
