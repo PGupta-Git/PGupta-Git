@@ -1,4 +1,4 @@
-# Palash Gupta - Bachelors in Engineering (EE,EC,CS), MSc
+# Palash Gupta - B.Engineering (EE,EC,CS), MSc
 
 Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
 
