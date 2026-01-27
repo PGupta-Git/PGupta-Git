@@ -4,7 +4,7 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 
 - Strengths: Experiment Design, Feature Engineering, Robust Validation, Model Building, and Stakeholder Translation.
 - Domains: Finance, Healthcare, Business, Retail/Commercial Analytics, and Sports Analytics
-- Toolbox: Python, R, SQL, Dashboards, and Reproducible DS Workflows.
+- Main Languages: Python, R, SQL, Typescript, and React
 
 ## Contact
 
@@ -16,6 +16,17 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 
 - Pragmatic parallel-arm RCT on repeated sprint training protocols (preprint repo): https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission
 - ORCID: https://orcid.org/0009-0000-0172-4009
+
+## Drill Design App (Next.js App - Now In Production)
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-1F2937?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 
 ## Toolbox
 
@@ -50,6 +61,7 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 
 ![Shiny](https://img.shields.io/badge/Shiny-1E6BD6?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-111111?style=for-the-badge&logo=plotly&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Engineering
 
@@ -58,16 +70,6 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Drill Design App (Next.js App - Now In Production)
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-1F2937?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 
 ## Featured work
 
