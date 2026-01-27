@@ -2,7 +2,7 @@
 
 Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
 
-Note: case studies are anonymized (organization names and private code/data are omitted).
+Note: case studies are anonymised (organisation names and private code/data are omitted).
 
 - Strengths: experiment design, feature engineering, robust validation, and stakeholder translation.
 - Domains: sports performance + commercial analytics.
@@ -59,7 +59,7 @@ Note: case studies are anonymized (organization names and private code/data are 
 |---|---|---|
 | Player availability & decision support | KPI redesign, feature engineering, time-aware validation, decision framing | https://github.com/PGupta-Git/case-study-player-availability-decision-support |
 | Tactical / recruitment / performance analysis | Benchmarking, robustness checks, communication through visuals | https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis |
-| Drill Design App (production) | Product thinking, data modeling, shipping a real app | https://github.com/PGupta-Git/case-study-drill-design-app<br>https://www.drilldesignapp.com |
+| Drill Design App (production) | Product thinking, data modeling, shipping a real app | https://github.com/PGupta-Git/case-study-drill-design-app<br><br>https://www.drilldesignapp.com |
 | Repeated sprint training trial (research) | Statistical rigor, reproducible analysis artifacts | https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission |
 | Open-data experimentation lab | Public code: clean DS workflow, evaluation, visual storytelling | https://github.com/PGupta-Git/open-football-experimentation-lab |
 
@@ -87,4 +87,3 @@ Note: case studies are anonymized (organization names and private code/data are 
 
 - Email: palashcscs@outlook.com
 - LinkedIn: https://www.linkedin.com/in/pg-cscs
-- Resume (public, redacted): `RESUME.md`
