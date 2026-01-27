@@ -1,4 +1,4 @@
-# Palash Gupta Bachelors in Engineering (EE,EC,CS), MSc
+# Palash Gupta - Bachelors in Engineering (EE,EC,CS), MSc
 
 Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
 
@@ -12,6 +12,11 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 - LinkedIn: https://www.linkedin.com/in/pg-cscs
 - GitHub: https://github.com/PGupta-Git
 
+## Publications
+
+- Pragmatic parallel-arm RCT on repeated sprint training protocols (preprint repo): https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission
+- ORCID: https://orcid.org/0009-0000-0172-4009
+
 ## Toolbox
 
 ### Languages
@@ -20,24 +25,31 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Development Tools
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![renv](https://img.shields.io/badge/renv-75AADB?style=for-the-badge&logo=r&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black)
+
+### IDEs
+![Positron](https://img.shields.io/badge/Positron-6FB3D2?style=for-the-badge&logo=posit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
 ### Data Science
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<a href="https://cran.r-project.org/package=tidyverse"><img src="assets/r/tidyverse.png" height="44" alt="tidyverse" /></a>
+<a href="https://cran.r-project.org/package=tidymodels"><img src="assets/r/tidymodels.png" height="44" alt="tidymodels" /></a>
+<a href="https://cran.r-project.org/package=mlr3"><img src="assets/r/mlr3.png" height="44" alt="mlr3" /></a>
+<a href="https://cran.r-project.org/package=easystats"><img src="assets/r/easystats.png" height="44" alt="easystats" /></a>
 
 ### Reporting & Apps
 
 ![Shiny](https://img.shields.io/badge/Shiny-1E6BD6?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-111111?style=for-the-badge&logo=plotly&logoColor=white)
-
-### R Packages
-
-<a href="https://cran.r-project.org/package=tidyverse"><img src="assets/r/tidyverse.png" height="44" alt="tidyverse" /></a>
-<a href="https://cran.r-project.org/package=tidymodels"><img src="assets/r/tidymodels.png" height="44" alt="tidymodels" /></a>
-<a href="https://cran.r-project.org/package=mlr3"><img src="assets/r/mlr3.png" height="44" alt="mlr3" /></a>
-<a href="https://cran.r-project.org/package=easystats"><img src="assets/r/easystats.png" height="44" alt="easystats" /></a>
 
 ### Engineering
 
@@ -84,7 +96,3 @@ Note: case studies are anonymised (organisation names and private code/data are 
 - Prefer simple, explainable models when they perform; add complexity only when it wins on validated metrics.
 - Communicate uncertainty (calibration, intervals, sensitivity checks) and translate results into concrete actions.
 
-## Publications
-
-- Pragmatic parallel-arm RCT on repeated sprint training protocols (preprint repo): https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission
-- ORCID: https://orcid.org/0009-0000-0172-4009
