@@ -51,3 +51,4 @@ More details: `CHECKLIST.md`
 
 - Email: palashcscs@outlook.com
 - LinkedIn: https://www.linkedin.com/in/pg-cscs
+- Resume (public, redacted): `RESUME.md`
