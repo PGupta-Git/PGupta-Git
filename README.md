@@ -35,6 +35,17 @@ Note: case studies are anonymized (organization names and private code/data are 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### Drill Design App (production)
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-1F2937?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+
 ## Featured work
 
 | Project | What it shows | Links |
@@ -44,15 +55,6 @@ Note: case studies are anonymized (organization names and private code/data are 
 | Drill Design App (production) | Product thinking, data modeling, shipping a real app | https://github.com/PGupta-Git/case-study-drill-design-app<br>https://www.drilldesignapp.com |
 | Repeated sprint training trial (research) | Statistical rigor, reproducible analysis artifacts | https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission |
 | Open-data experimentation lab | Public code: clean DS workflow, evaluation, visual storytelling | https://github.com/PGupta-Git/open-football-experimentation-lab |
-
-## Setup checklist
-
-- Pin repositories on your GitHub profile (recommended order): `case-study-player-availability-decision-support`, `case-study-tactical-recruitment-performance-analysis`, `case-study-drill-design-app`, `open-football-experimentation-lab`, `Gupta_et_al_RST_Paper_Submission`.
-- Add 3-5 redacted screenshots to each case study `assets/` folder (filenames are listed in each README).
-- Set a social preview image for each repo (GitHub repo settings) using one strong figure/screenshot.
-- (Optional) Add a public resume link.
-
-More details: `CHECKLIST.md`
 
 ## Selected impact
 
