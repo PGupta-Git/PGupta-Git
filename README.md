@@ -1,12 +1,17 @@
-# Palash Gupta
+# Palash Gupta Bachelors in Engineering (EE,EC,CS), MSc
+
+## Contact
+
+- Email: palashcscs@outlook.com
+- LinkedIn: https://www.linkedin.com/in/pg-cscs
 
 Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
 
 Note: case studies are anonymised (organisation names and private code/data are omitted).
 
-- Strengths: experiment design, feature engineering, robust validation, and stakeholder translation.
-- Domains: sports performance + commercial analytics.
-- Toolbox: Python, R, SQL, dashboards, and reproducible DS workflows.
+- Strengths: Experiment Design, Feature Engineering, Robust Validation, Model Building, and Stakeholder Translation.
+- Domains: Finance, Healthcare, Business, Retail/Commercial Analytics, and Sports Analytics
+- Toolbox: Python, R, SQL, Dashboards, and Reproducible DS Workflows.
 
 ## Toolbox
 
@@ -82,8 +87,3 @@ Note: case studies are anonymised (organisation names and private code/data are 
 
 - Pragmatic parallel-arm RCT on repeated sprint training protocols (preprint repo): https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission
 - ORCID: https://orcid.org/0009-0000-0172-4009
-
-## Contact
-
-- Email: palashcscs@outlook.com
-- LinkedIn: https://www.linkedin.com/in/pg-cscs
