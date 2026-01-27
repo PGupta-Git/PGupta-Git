@@ -6,7 +6,34 @@ Note: case studies are anonymized (organization names and private code/data are 
 
 - Strengths: experiment design, feature engineering, robust validation, and stakeholder translation.
 - Domains: sports performance + commercial analytics.
-- Toolbox: Python (polars/pandas, scikit-learn), R (tidymodels/easystats, Shiny), SQL (advanced), dashboards (Shiny/Dash), Docker, CI/CD.
+- Toolbox: Python, R, SQL, dashboards, and reproducible DS workflows.
+
+## Toolbox
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Science
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Reporting & Apps
+
+![Shiny](https://img.shields.io/badge/Shiny-1E6BD6?style=for-the-badge&logo=rstudio&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-111111?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Engineering
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Featured work
 
