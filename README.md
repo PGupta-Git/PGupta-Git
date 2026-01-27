@@ -1,17 +1,16 @@
 # Palash Gupta Bachelors in Engineering (EE,EC,CS), MSc
 
-## Contact
-
-- Email: palashcscs@outlook.com
-- LinkedIn: https://www.linkedin.com/in/pg-cscs
-
 Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
-
-Note: case studies are anonymised (organisation names and private code/data are omitted).
 
 - Strengths: Experiment Design, Feature Engineering, Robust Validation, Model Building, and Stakeholder Translation.
 - Domains: Finance, Healthcare, Business, Retail/Commercial Analytics, and Sports Analytics
 - Toolbox: Python, R, SQL, Dashboards, and Reproducible DS Workflows.
+
+## Contact
+
+- Email: palashcscs@outlook.com
+- LinkedIn: https://www.linkedin.com/in/pg-cscs
+- GitHub: https://github.com/PGupta-Git
 
 ## Toolbox
 
@@ -67,6 +66,8 @@ Note: case studies are anonymised (organisation names and private code/data are 
 | Drill Design App (production) | Product thinking, data modeling, shipping a real app | https://github.com/PGupta-Git/case-study-drill-design-app<br><br>https://www.drilldesignapp.com |
 | Repeated sprint training trial (research) | Statistical rigor, reproducible analysis artifacts | https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission |
 | Open-data experimentation lab | Public code: clean DS workflow, evaluation, visual storytelling | https://github.com/PGupta-Git/open-football-experimentation-lab |
+
+Note: case studies are anonymised (organisation names and private code/data are omitted).
 
 ## Selected impact
 
