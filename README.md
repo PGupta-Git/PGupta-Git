@@ -30,10 +30,10 @@ Note: case studies are anonymized (organization names and private code/data are 
 
 ### R Packages
 
-![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![tidymodels](https://img.shields.io/badge/tidymodels-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![caret](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![easystats](https://img.shields.io/badge/easystats-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<a href="https://cran.r-project.org/package=tidyverse"><img src="assets/r/tidyverse.png" height="44" alt="tidyverse" /></a>
+<a href="https://cran.r-project.org/package=tidymodels"><img src="assets/r/tidymodels.png" height="44" alt="tidymodels" /></a>
+<a href="https://cran.r-project.org/package=caret"><img src="assets/r/caret.png" height="44" alt="caret" /></a>
+<a href="https://cran.r-project.org/package=easystats"><img src="assets/r/easystats.png" height="44" alt="easystats" /></a>
 
 ### Engineering
 
