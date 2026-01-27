@@ -28,6 +28,13 @@ Note: case studies are anonymized (organization names and private code/data are 
 ![Shiny](https://img.shields.io/badge/Shiny-1E6BD6?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-111111?style=for-the-badge&logo=plotly&logoColor=white)
 
+### R Packages
+
+![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![tidymodels](https://img.shields.io/badge/tidymodels-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![caret](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![easystats](https://img.shields.io/badge/easystats-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 ### Engineering
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
