@@ -18,6 +18,15 @@ Note: case studies are anonymized (organization names and private code/data are 
 | Repeated sprint training trial (research) | Statistical rigor, reproducible analysis artifacts | https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission |
 | Open-data experimentation lab | Public code: clean DS workflow, evaluation, visual storytelling | https://github.com/PGupta-Git/open-football-experimentation-lab |
 
+## Setup checklist
+
+- Pin repositories on your GitHub profile (recommended order): `case-study-player-availability-decision-support`, `case-study-tactical-recruitment-performance-analysis`, `case-study-drill-design-app`, `open-football-experimentation-lab`, `Gupta_et_al_RST_Paper_Submission`.
+- Add 3-5 redacted screenshots to each case study `assets/` folder (filenames are listed in each README).
+- Set a social preview image for each repo (GitHub repo settings) using one strong figure/screenshot.
+- (Optional) Add a public resume link.
+
+More details: `CHECKLIST.md`
+
 ## Selected impact
 
 - Built non-linear models on high-frequency biometric telemetry to separate signal from noise and predict failure-mode risk (injury-risk proxy).
