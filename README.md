@@ -14,7 +14,7 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 
 ## Publications
 
-- Pragmatic parallel-arm RCT on repeated sprint training protocols (preprint repo): https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission
+- A Pragmatic, Parallel-Arm, Randomised Trial on the Effects of Two Repeated Sprint Training Protocols on Fitness Outcomes in Semi-Professional Male Soccer Players: Preliminary Report (preprint repo): https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission
 - ORCID: https://orcid.org/0009-0000-0172-4009
 
 ## Toolbox
