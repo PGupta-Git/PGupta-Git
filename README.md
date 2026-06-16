@@ -11,7 +11,6 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 - Email: palashcscs@outlook.com
 - LinkedIn: [in/pgds](https://www.linkedin.com/in/pgds/)
 - GitHub: [PGupta-Git](https://github.com/PGupta-Git)
-- Resume: [RESUME.md](RESUME.md)
 
 ## How I work (analysis/experimentation)
 
