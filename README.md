@@ -9,8 +9,9 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 ## Contact
 
 - Email: palashcscs@outlook.com
-- LinkedIn: https://www.linkedin.com/in/pg-cscs
-- GitHub: https://github.com/PGupta-Git
+- LinkedIn: [in/pgds](https://www.linkedin.com/in/pgds/)
+- GitHub: [PGupta-Git](https://github.com/PGupta-Git)
+- Resume: [RESUME.md](RESUME.md)
 
 ## How I work (analysis/experimentation)
 
@@ -108,12 +109,12 @@ Note: case studies are anonymised (organisation names and private code/data are 
 
 ## Selected impact
 
-- Designed a novel geometric metric (BtLA) from 25Hz optical tracking data to profile a player's off-ball movement between lines, with continuous passing-lane openness scoring and segment-aware smoothing.
-- Built a dual-signal player similarity framework (cosine on movement shape + Euclidean on scaled level/volume) across a full season of Premier League event data, bridging tracking and event data paradigms.
-- Built non-linear models on high-frequency biometric telemetry to separate signal from noise and predict failure-mode risk (injury-risk proxy).
-- Engineered new "availability" features with domain experts, replacing legacy KPIs with more predictive signals.
+- Designed a novel geometric metric (BtLA) from 25Hz optical tracking data to profile a player's off-ball movement between lines, with continuous passing-lane openness scoring and segment-aware smoothing (see [BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
+- Built a dual-signal player similarity framework (cosine on movement shape + Euclidean on scaled level/volume) across a full season of Premier League event data, bridging tracking and event data paradigms (see [BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
+- Built non-linear models on high-frequency biometric telemetry to separate signal from noise and predict failure-mode risk (injury-risk proxy; see [Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
+- Engineered new "availability" features with domain experts, replacing legacy KPIs with more predictive signals (see [Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
 - Built forecasting models and automated reporting workflows, saving ~15 hours/week and reducing data retrieval latency by ~30%.
-- Delivered executive dashboards for decision-making (market sentiment, product performance, performance monitoring).
+- Delivered executive dashboards for decision-making (market sentiment, product performance, performance monitoring; see [Drill Design App](https://github.com/PGupta-Git/case-study-drill-design-app) and [Tactical/Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
 - Led cross-functional delivery (Agile/Scrum) and bridged data engineering and non-technical stakeholders.
 
 

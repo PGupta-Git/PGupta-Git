@@ -54,5 +54,5 @@ Data Scientist (analysis/experimentation) with experience in high-stakes sports 
 
 ## Links
 
-- LinkedIn: https://www.linkedin.com/in/pg-cscs
+- LinkedIn: https://www.linkedin.com/in/pgds/
 - Email: palashcscs@outlook.com
