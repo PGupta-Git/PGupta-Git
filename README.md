@@ -17,6 +17,20 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 - **Published Article:** [A pragmatic, parallel-arm, randomised trial on the effects of two repeated-sprint training protocols on fitness outcomes in semi-professional male soccer players: preliminary report](https://doi.org/10.1080/24733938.2026.2684071) (*Science and Medicine in Football*, 2026) | [Data & Code Repository](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission)
 - ORCID: https://orcid.org/0009-0000-0172-4009
 
+## Open Source Contributions
+
+Active contributor to popular open-source projects, libraries, and desktop utilities:
+
+*   **[brilliantnz/flickernaut](https://github.com/brilliantnz/flickernaut)** (GNOME Shell Extension adding custom Nautilus context menu entries)
+    *   **Invalid Apps & Desktop Files Fix ([PR #9](https://github.com/brilliantnz/flickernaut/pull/9))**: Resolved a critical bug causing extension crashes by implementing robust `try-except` error handling for invalid or missing desktop files (handling null `Gio.DesktopAppInfo` returns).
+    *   **Duplicate Preferences Entries Fix ([PR #9](https://github.com/brilliantnz/flickernaut/pull/9))**: Prevented application entries from appearing twice in the preferences dialog by ensuring the chooser respects the `NoDisplay=true` desktop configuration.
+*   **[andrewRowlinson/mplsoccer](https://github.com/andrewRowlinson/mplsoccer)** (Matplotlib-based soccer visualization library)
+    *   **Speedometer & Gauge Charts ([PR #118](https://github.com/andrewRowlinson/mplsoccer/pull/118))**: Designed and implemented the core `Speedometer` class, enabling highly customizable gauge and speedometer charts (implements Issue #16).
+    *   **Curved Radar Text Labels ([PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120))**: Authored curved label support for radar charts along circular arcs using vector glyph paths (`TextPath`/`PathPatch`) and `TextToPath` metrics, resolving rounding jitter (fixes Issue #35). Supports multi-line curved labels and auto-flipping for bottom-half readability.
+    *   **Wikipedia Rate-Limiting Fixes ([PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120))**: Resolved build failures in docstring gallery examples by standardizing Wikipedia thumbnail sizes and adding proper User-Agent headers to requests.
+*   **[ageron/handson-mlp](https://github.com/ageron/handson-mlp)** (Aurélien Géron's Hands-On Machine Learning book repository)
+    *   **Polars Dataframe Integration ([PR #41](https://github.com/ageron/handson-mlp/pull/41))**: Maintained a community-supported fork migrating the book's notebook exercises (Chapters 1–9) from Pandas to Polars dataframes, including custom Polars tools and database connection guides.
+
 ## Toolbox
 
 ### Languages
