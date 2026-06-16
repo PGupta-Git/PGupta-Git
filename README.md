@@ -53,6 +53,9 @@ Active contributor to popular open-source projects, libraries, and desktop utili
 ![renv](https://img.shields.io/badge/renv-75AADB?style=for-the-badge&logo=r&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-F50A4D?style=for-the-badge&logo=dvc&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
+![Copier](https://img.shields.io/badge/Copier-1F2937?style=for-the-badge&logo=copier&logoColor=white)
 
 ### IDEs
 ![Positron](https://img.shields.io/badge/Positron-6FB3D2?style=for-the-badge&logo=posit&logoColor=white)
@@ -61,10 +64,14 @@ Active contributor to popular open-source projects, libraries, and desktop utili
 
 ### Data Science
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Ibis](https://img.shields.io/badge/Ibis-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-F50A4D?style=for-the-badge&logo=catboost&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![marimo](https://img.shields.io/badge/marimo-358A30?style=for-the-badge&logo=python&logoColor=white)
 <a href="https://cran.r-project.org/package=tidyverse"><img src="assets/r/tidyverse.png" height="44" alt="tidyverse" /></a>
 <a href="https://cran.r-project.org/package=tidymodels"><img src="assets/r/tidymodels.png" height="44" alt="tidymodels" /></a>
 <a href="https://cran.r-project.org/package=mlr3"><img src="assets/r/mlr3.png" height="44" alt="mlr3" /></a>
@@ -79,7 +86,9 @@ Active contributor to popular open-source projects, libraries, and desktop utili
 ### Engineering
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![lakeFS](https://img.shields.io/badge/lakeFS-0080FF?style=for-the-badge&logo=lakefs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
