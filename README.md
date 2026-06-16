@@ -36,7 +36,7 @@ Active contributor to popular open-source projects, libraries, and desktop utili
     *   **Curved Radar Text Labels ([PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120))**: Authored curved label support for radar charts along circular arcs using vector glyph paths (`TextPath`/`PathPatch`) and `TextToPath` metrics, resolving rounding jitter (fixes Issue #35). Supports multi-line curved labels and auto-flipping for bottom-half readability.
     *   **Wikipedia Rate-Limiting Fixes ([PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120))**: Resolved build failures in docstring gallery examples by standardizing Wikipedia thumbnail sizes and adding proper User-Agent headers to requests.
 *   **[ageron/handson-mlp](https://github.com/ageron/handson-mlp)** (Aurélien Géron's Hands-On Machine Learning book repository)
-    *   **Polars Dataframe Integration ([PR #41](https://github.com/ageron/handson-mlp/pull/41))**: Maintained a community-supported fork migrating the book's notebook exercises (Chapters 1–9) from Pandas to Polars dataframes, including custom Polars tools and database connection guides.
+    *   **Polars Dataframe Integration ([PR #41](https://github.com/ageron/handson-mlp/pull/41))**: Maintained a community-supported fork migrating the book's notebook exercises (all chapters) from Pandas to Polars dataframes, including custom Polars tools and database connection guides.
 
 ## Toolbox
 
