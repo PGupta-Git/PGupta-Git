@@ -159,10 +159,12 @@ Note: case studies are anonymised (organisation names and private code/data are 
 
 ## Selected impact
 
+- Published a peer-reviewed parallel-arm RCT (*Science and Medicine in Football*, 2026) on repeated-sprint training protocols — robust ANCOVA with sensitivity analysis across six fitness outcomes (see [Paper](https://doi.org/10.1080/24733938.2026.2684071) and [Data & Code Repo](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission)).
 - Designed a novel geometric metric (BtLA) from 25Hz optical tracking data to profile a player's off-ball movement between lines, with continuous passing-lane openness scoring and segment-aware smoothing (see [BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
 - Built a dual-signal player similarity framework (cosine on movement shape + Euclidean on scaled level/volume) across a full season of Premier League event data, bridging tracking and event data paradigms (see [BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
 - Built non-linear models on high-frequency biometric telemetry to separate signal from noise and predict failure-mode risk (injury-risk proxy; see [Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
 - Engineered new "availability" features with domain experts, replacing legacy KPIs with more predictive signals (see [Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
-- Built forecasting models and automated reporting workflows, saving ~15 hours/week and reducing data retrieval latency by ~30%.
-- Delivered executive dashboards for decision-making (market sentiment, product performance, performance monitoring; see [Drill Design App](https://github.com/PGupta-Git/case-study-drill-design-app) and [Tactical/Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
+- Built forecasting models and automated reporting workflows, saving ~15 hours/week and reducing data retrieval latency by ~30% (see [Tactical/Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
+- Delivered analytical dashboards for tactical and recruitment decision-making (market sentiment, performance monitoring, opponent scouting; see [Tactical/Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
+- Shipped a live production SaaS — [Drill Design App](https://www.drilldesignapp.com): full-stack Next.js / PostgreSQL (Neon) / Drizzle ORM with billing, auth, and real users (see [Case Study](https://github.com/PGupta-Git/case-study-drill-design-app)).
 - Led cross-functional delivery (Agile/Scrum) and bridged data engineering and non-technical stakeholders.
