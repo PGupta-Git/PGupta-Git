@@ -1,10 +1,10 @@
 # Palash Gupta - B.Engineering (EE,EC,CS), MSc
 
-Data Scientist (analysis/experimentation) building decision-support models and clear, visual analytics for real-world problems.
+ML Engineer and Data Scientist building end-to-end systems (decision-support models, data pipelines, and production applications) with published research and active open-source contributions.
 
-- Strengths: Experiment Design, Feature Engineering, Robust Validation, Model Building, and Stakeholder Translation.
-- Domains: Finance, Healthcare, Business, Retail/Commercial Analytics, and Sports Analytics
-- Main Languages: Python, R, SQL, Typescript, and React
+- Strengths: Data Engineering, Full-Stack Development, Experiment Design, Feature Engineering, Robust Validation, Model Building, and Stakeholder Translation.
+- Domains: Big Tech, Retail/Commercial Analytics, Finance, Healthcare, Business, and Sports Analytics
+- Main Languages: Python, R, SQL, and TypeScript
 
 ## Contact
 
@@ -12,7 +12,7 @@ Data Scientist (analysis/experimentation) building decision-support models and c
 - LinkedIn: [in/pgds](https://www.linkedin.com/in/pgds/)
 - GitHub: [PGupta-Git](https://github.com/PGupta-Git)
 
-## How I work (analysis/experimentation)
+## How I work (analysis / engineering / product)
 
 - Start with a decision and a measurable target (KPI definition comes first).
 - Establish baselines, define leakage-safe splits, and validate with time-aware backtesting when appropriate.
@@ -33,8 +33,8 @@ Active contributor to popular open-source projects, libraries, and desktop utili
   - **Duplicate Preferences Entries Fix ([PR #9](https://github.com/brilliantnz/flickernaut/pull/9))**: Prevented application entries from appearing twice in the preferences dialog by ensuring the chooser respects the `NoDisplay=true` desktop configuration.
 - **[posit-dev/positron](https://github.com/posit-dev/positron)** (Open-source data science IDE built on VS Code by Posit)
   - **Console "Start Session" Button Spacing Fix ([PR #14381](https://github.com/posit-dev/positron/pull/14381) → [merged as PR #14445](https://github.com/posit-dev/positron/pull/14445))**: Fixed browser UA default padding on a native `<button>` used inline in `emptyConsole.css`, restoring flush baseline alignment with surrounding sentence text (fixes [#14155](https://github.com/posit-dev/positron/issues/14155)). Positron's CI requires non-fork PRs; a maintainer applied the commits to a new PR with full credit.
-  - **Help Pane Find Widget — Enter Key Navigation ([PR #14380](https://github.com/posit-dev/positron/pull/14380) → [merged as PR #14444](https://github.com/posit-dev/positron/pull/14444))**: Wired plain Enter and Shift+Enter in the shared webview find widget to advance and reverse matches; removed a post-find focus redirect so the Find input retains focus after navigation (fixes [#12921](https://github.com/posit-dev/positron/issues/12921)). Carried into a non-fork PR by a contributor with credited authorship.
-- **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** (AI coding harness — MCP server orchestration and provider routing)
+  - **Help Pane Find Widget: Enter Key Navigation ([PR #14380](https://github.com/posit-dev/positron/pull/14380) → [merged as PR #14444](https://github.com/posit-dev/positron/pull/14444))**: Wired plain Enter and Shift+Enter in the shared webview find widget to advance and reverse matches; removed a post-find focus redirect so the Find input retains focus after navigation (fixes [#12921](https://github.com/posit-dev/positron/issues/12921)). Carried into a non-fork PR by a contributor with credited authorship.
+- **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** (AI coding harness for MCP server orchestration and provider routing)
   - **OpenCode MCP Array Command & Environment Key Fix ([PR #3181](https://github.com/can1357/oh-my-pi/pull/3181), fixes [Issue #3180](https://github.com/can1357/oh-my-pi/issues/3180))**: Diagnosed and fixed two silent bugs in the OpenCode discovery provider: array-style `command` entries coerced to a comma-joined string causing `ENOENT` on spawn; `environment` key silently ignored in favour of `env` only. oh-my-pi requires vouched contributors, so the PR was closed and the owner implemented the equivalent fix ([PR #3182](https://github.com/can1357/oh-my-pi/pull/3182), merged 2026-06-21), explicitly crediting the issue diagnosis.
   - **Claude 4.6 Wire-ID Routing Fix on google-antigravity ([Issue #3067](https://github.com/can1357/oh-my-pi/issues/3067))**: Diagnosed two Claude 4.6 failure modes: (1) 404 from `thinkingPair` routing Sonnet thinking efforts to a non-existent `-thinking` wire ID the backend does not expose; (2) 400 from `maxOutputTokens: 65536` exceeding the backend's 64000 cap. The maintainer's follow-up fix commit [`47cc464`](https://github.com/can1357/oh-my-pi/commit/47cc46496209e06f89945f9b4515f22e621f71b6) (merged 2026-06-19) explicitly credits *"@PGupta-Git"* in the commit message and the shipped regression test is named `issue-3067-repro.test.ts`.
 - **[andrewRowlinson/mplsoccer](https://github.com/andrewRowlinson/mplsoccer)** (Matplotlib-based soccer visualization library)
@@ -42,7 +42,7 @@ Active contributor to popular open-source projects, libraries, and desktop utili
   - **Curved Radar Text Labels ([PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120))**: Authored curved label support for radar charts along circular arcs using vector glyph paths (`TextPath`/`PathPatch`) and `TextToPath` metrics, resolving rounding jitter (fixes Issue #35). Supports multi-line curved labels and auto-flipping for bottom-half readability. PR open, all checks passing, pending maintainer review.
   - **Wikipedia Rate-Limiting Fixes ([PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120))**: Resolved build failures in docstring gallery examples by standardizing Wikipedia thumbnail sizes and adding proper User-Agent headers to requests.
 - **[ageron/handson-mlp](https://github.com/ageron/handson-mlp)** (Aurélien Géron's Hands-On Machine Learning book repository)
-  - **Full Polars Migration — Community Fork ([polars_integration branch](https://github.com/PGupta-Git/handson-mlp/tree/polars_integration))**: Maintaining the community-endorsed Polars variant of all notebook exercises (19 chapters + appendices), with a dedicated `tools_polars.ipynb` added. The upstream author confirmed he won't maintain both variants but endorsed the fork ([Issue #23](https://github.com/ageron/handson-mlp/issues/23)). [PR #41](https://github.com/ageron/handson-mlp/pull/41) (open, awaiting merge) adds a one-line README pointer from the upstream repo to this branch.
+  - **Full Polars Migration: Community Fork ([polars_integration branch](https://github.com/PGupta-Git/handson-mlp/tree/polars_integration))**: Maintaining the community-endorsed Polars variant of all notebook exercises (19 chapters + appendices), with a dedicated `tools_polars.ipynb` added. The upstream author confirmed he won't maintain both variants but endorsed the fork ([Issue #23](https://github.com/ageron/handson-mlp/issues/23)). [PR #41](https://github.com/ageron/handson-mlp/pull/41) (open, awaiting merge) adds a one-line README pointer from the upstream repo to this branch.
 
 ## Toolbox
 
@@ -51,7 +51,6 @@ Active contributor to popular open-source projects, libraries, and desktop utili
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Development Tools
@@ -113,6 +112,7 @@ Active contributor to popular open-source projects, libraries, and desktop utili
 
 ![Shiny](https://img.shields.io/badge/Shiny-1E6BD6?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-111111?style=for-the-badge&logo=plotly&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -159,12 +159,12 @@ Note: case studies are anonymised (organisation names and private code/data are 
 
 ## Selected impact
 
-- Published a peer-reviewed parallel-arm RCT (*Science and Medicine in Football*, 2026) on repeated-sprint training protocols — robust ANCOVA with sensitivity analysis across six fitness outcomes (see [Paper](https://doi.org/10.1080/24733938.2026.2684071) and [Data & Code Repo](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission)).
+- Published a peer-reviewed parallel-arm RCT (*Science and Medicine in Football*, 2026) on repeated-sprint training protocols, using robust ANCOVA with sensitivity analysis across six fitness outcomes (see [Paper](https://doi.org/10.1080/24733938.2026.2684071) and [Data & Code Repo](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission)).
 - Designed a novel geometric metric (BtLA) from 25Hz optical tracking data to profile a player's off-ball movement between lines, with continuous passing-lane openness scoring and segment-aware smoothing (see [BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
 - Built a dual-signal player similarity framework (cosine on movement shape + Euclidean on scaled level/volume) across a full season of Premier League event data, bridging tracking and event data paradigms (see [BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
 - Built non-linear models on high-frequency biometric telemetry to separate signal from noise and predict failure-mode risk (injury-risk proxy; see [Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
 - Engineered new "availability" features with domain experts, replacing legacy KPIs with more predictive signals (see [Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
 - Built forecasting models and automated reporting workflows, saving ~15 hours/week and reducing data retrieval latency by ~30% (see [Tactical/Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
 - Delivered analytical dashboards for tactical and recruitment decision-making (market sentiment, performance monitoring, opponent scouting; see [Tactical/Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
-- Shipped a live production SaaS — [Drill Design App](https://www.drilldesignapp.com): full-stack Next.js / PostgreSQL (Neon) / Drizzle ORM with billing, auth, and real users (see [Case Study](https://github.com/PGupta-Git/case-study-drill-design-app)).
+- Shipped a live production SaaS: [Drill Design App](https://www.drilldesignapp.com), a full-stack Next.js / PostgreSQL (Neon) / Drizzle ORM application with billing, auth, and real users (see [Case Study](https://github.com/PGupta-Git/case-study-drill-design-app)).
 - Led cross-functional delivery (Agile/Scrum) and bridged data engineering and non-technical stakeholders.
