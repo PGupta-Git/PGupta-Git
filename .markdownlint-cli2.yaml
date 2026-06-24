@@ -1,0 +1,10 @@
+config:
+  # MD013: line-length — disabled for GitHub profile READMEs.
+  # Badge image URLs, table rows, and long inline links cannot be wrapped
+  # without breaking GitHub Markdown rendering.
+  MD013: false
+
+  # MD033: no-inline-html — disabled intentionally.
+  # <br> is required for multi-line GitHub Markdown table cells.
+  # <a><img> is required for CRAN package badges (no shields.io equivalent).
+  MD033: false
