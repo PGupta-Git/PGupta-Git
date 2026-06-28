@@ -1,6 +1,6 @@
 # Palash Gupta - B.Engineering (EE,EC,CS), MSc
 
-ML Engineer and Data Scientist building end-to-end systems (decision-support models, data pipelines, and production applications) with published research and active open-source contributions.
+Senior Data Scientist and ML Engineer building end-to-end systems (decision-support models, data pipelines, and production applications) with published research and active open-source contributions.
 
 - Strengths: Data Engineering, Full-Stack Development, Experiment Design, Feature Engineering, Robust Validation, Model Building, and Stakeholder Translation.
 - Domains: Big Tech, Retail/Commercial Analytics, Finance, Healthcare, Business, and Sports Analytics
