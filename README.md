@@ -1,6 +1,6 @@
 # Palash Gupta (B.Engg., MSc)
 
-### Senior Machine Learning & Data Engineer | Ex-IBM Senior Data Scientist | Open-Source Developer | Specialist in AI & Cloud Data Engineering
+### Senior Machine Learning & Data Engineer | Ex-IBM Senior Data Scientist | Open-Source Developer
 
 With over 7 years of experience spanning enterprise product development at IBM (Watson Studio & AutoAI), high-performance sports analytics, and data transformation initiatives in the public sector, I specialise in architecting production-grade machine learning pipelines, high-throughput data ingestion systems, and containerised AI model deployments. I combine rigorous statistical research (peer-reviewed author) with machine learning engineering and cloud data platform best practices across modern cloud ecosystems (AWS, GCP, Azure, Databricks). As a Forward Deployed Engineer, I leverage my ability to rapidly prototype data systems and build supporting full-stack interfaces (React/TypeScript) to bridge the gap between raw data assets and business-critical AI applications.
 
