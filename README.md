@@ -1,6 +1,6 @@
 # Palash Gupta (B.Engg., MSc)
 
-### Senior Machine Learning Engineer & Data Scientist | Ex-IBM Senior Data Scientist | Open-Source Developer
+#### Senior Machine Learning Engineer | Ex-IBM Senior Data Scientist | Open-Source Contributor
 
 I build production-grade machine learning and data systems that turn complex data into reliable products and measurable decisions. My work spans IBM Watson Studio and AutoAI, cloud data platforms, high-performance sports analytics, public-sector transformation, and full-stack AI product delivery.
 
