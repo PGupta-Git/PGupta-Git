@@ -1,12 +1,12 @@
 # Palash Gupta (B.Engg., MSc)
 
-#### Machine Learning Engineer | Ex-IBM Senior Data Scientist | Open-Source Contributor
+#### Senior Data Scientist & ML Engineer | Production ML & Decision Systems
 
-I build production-grade machine learning and data systems that turn complex data into reliable products and measurable decisions. My work spans IBM Watson Studio and AutoAI, cloud data platforms, high-performance sports analytics, public-sector transformation, and full-stack AI product delivery.
+I build production decision systems from problem framing, statistical modelling, and time-aware validation through cloud data architecture, MLOps, full-stack delivery, and stakeholder adoption. My work spans enterprise forecasting at IBM, predictive risk and survival analysis, high-frequency time-series modelling, public-sector ML platforms, and production SaaS.
 
-**7+ years in Data and AI** · **Ex-IBM Watson Studio & AutoAI** · **Peer-reviewed author** · **Production SaaS shipped** · **Upstream open-source contributions**
+**7+ years in Data and AI** · **Former IBM Squad Lead** · **Peer-reviewed author** · **Production SaaS shipped** · **Upstream open-source contributions**
 
-**Focus:** Machine Learning Engineering · Data Engineering · Cloud Data Architecture · MLOps · Rapid Prototyping · Stakeholder Translation
+**Focus:** Applied Machine Learning · Statistical Modelling · Production ML · MLOps · Cloud Data Architecture · Full-Stack AI Products · Technical Leadership
 
 **Core languages:**
 <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,10 +19,10 @@ I build production-grade machine learning and data systems that turn complex dat
 
 ## Selected impact
 
-- **Saved ~15 hours/week and reduced data-retrieval latency by ~30%** over 5+ years at IBM by scaling petabyte data pipelines, building forecasting models, and automating reporting workflows.
+- **Architected petabyte-scale demand forecasting at IBM, driving 15% YoY revenue growth:** built distributed PySpark and SQL pipelines, reduced data-retrieval latency by 30%, and saved the finance team approximately 15 hours per week.
+- **Designed predictive risk, survival, and forecasting models** using leakage-safe, time-aware validation to replace legacy measures with signals for high-value decisions ([Predictive Risk & Survival Analysis](https://github.com/PGupta-Git/case-study-predictive-risk-survival-analysis)).
 - **Shipped a production SaaS with active paying subscribers:** [Drill Design App](https://www.drilldesignapp.com), built with Next.js, PostgreSQL (Neon), and Drizzle ORM ([Case Study](https://github.com/PGupta-Git/case-study-drill-design-app)).
-- **Engineered a novel geometric metric from 25Hz optical tracking data** and built a dual-signal player-similarity framework analyzing a full season of Premier League event data ([BtLA Framework Case Study](https://github.com/PGupta-Git/case-study-btla-framework)).
-- **Built non-linear models on high-frequency biometric telemetry** and engineered predictive features alongside domain experts to replace legacy KPIs for player availability ([Player Availability Case Study](https://github.com/PGupta-Git/case-study-player-availability-decision-support)).
+- **Engineered a novel geometric metric from 25Hz optical tracking data** and built a dual-signal player-similarity framework analysing a full season of Premier League event data ([High-Frequency Time-Series Analysis Framework](https://github.com/PGupta-Git/case-study-high-frequency-time-series-analysis-framework)).
 - **Published a peer-reviewed randomised controlled trial** applying ANCOVA and sensitivity analysis across six fitness outcomes ([Paper](https://doi.org/10.1080/24733938.2026.2684071) · [Data & Code](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission)).
 - **Led cross-functional delivery of decision-support dashboards** and analytical products for performance monitoring, market sentiment, recruitment, and opponent scouting ([Tactical & Recruitment Case Study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis)).
 
@@ -30,21 +30,21 @@ I build production-grade machine learning and data systems that turn complex dat
 
 | Project | Evidence of impact | Explore |
 | --- | --- | --- |
-| Repeated-sprint training trial | Peer-reviewed parallel-arm RCT; reproducible ANCOVA and sensitivity analysis across six fitness outcomes | [Paper](https://doi.org/10.1080/24733938.2026.2684071) · [Data & Code](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission) |
 | Drill Design App | Production SaaS with active paying subscribers, authentication, and PostgreSQL persistence | [Live product](https://www.drilldesignapp.com) · [Case study](https://github.com/PGupta-Git/case-study-drill-design-app) |
-| BtLA movement metric and player similarity | Novel metric from 25Hz tracking data; dual-signal similarity across a full Premier League season | [Case study](https://github.com/PGupta-Git/case-study-btla-framework) |
-| Player availability and decision support | High-frequency biometric modelling, leakage-safe validation, and redesigned availability KPIs | [Case study](https://github.com/PGupta-Git/case-study-player-availability-decision-support) |
+| Predictive Risk & Survival Analysis | Non-linear risk and survival modelling, leakage-safe temporal validation, and redesigned availability KPIs | [Case study](https://github.com/PGupta-Git/case-study-predictive-risk-survival-analysis) |
+| High-Frequency Time-Series Analysis Framework | Novel metric from 25Hz tracking data; dual-signal player similarity across a full Premier League season | [Case study](https://github.com/PGupta-Git/case-study-high-frequency-time-series-analysis-framework) |
+| Repeated-sprint training trial | Peer-reviewed parallel-arm RCT; reproducible ANCOVA and sensitivity analysis across six fitness outcomes | [Paper](https://doi.org/10.1080/24733938.2026.2684071) · [Data & Code](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission) |
 | Tactical, recruitment, and performance analysis | Transparent player benchmarking, uncertainty-aware robustness checks, and reusable dashboards and report templates for faster weekly analysis | [Case study](https://github.com/PGupta-Git/case-study-tactical-recruitment-performance-analysis) |
 | Open-data experimentation lab | Public, reproducible data-science workflows covering evaluation and visual storytelling | [Repository](https://github.com/PGupta-Git/open-football-experimentation-lab) |
 
 > Case studies are anonymised; organisation names and private code or data are intentionally omitted.
 
-## How I Work (Engineering, Analysis & Product)
+## How I Work: Decision Science, Engineering & Product
 
-- **Define the Decision First:** Begin by identifying the business decision, user workflow, and measurable KPI. The target interaction dictates the system architecture.
-- **Design for Modularity & Speed:** Build high-performance data pipelines and containerised cloud services alongside full-stack prototypes to accelerate iteration and feedback loops.
-- **Validate with Rigour:** Establish robust baselines, define leakage-safe evaluation splits, and validate models using time-aware backtesting to ensure resilience against data drift.
-- **Communicate Uncertainty:** Translate model outputs into explainable decisions, calibrating probabilities and handling edge cases gracefully rather than presenting black-box predictions.
+- **Define the Decision First:** Begin by identifying the business decision, user workflow, and measurable outcome. The target interaction dictates the modelling and system design.
+- **Model and Validate with Rigour:** Establish robust baselines, define leakage-safe evaluation splits, and use time-aware backtesting to test whether a signal will generalise.
+- **Build the Complete System:** Connect high-performance data pipelines and governed cloud services to production models and full-stack interfaces so users can act on the result.
+- **Communicate Uncertainty and Drive Adoption:** Translate model outputs into explainable decisions, calibrate probabilities, handle edge cases, and refine the product through stakeholder feedback.
 
 ## Verified Open-Source Impact
 
@@ -84,6 +84,11 @@ Every contribution below links the reported problem, my contribution, and the ve
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Cloud VM](https://img.shields.io/badge/Cloud%20VM-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
 ![Positron](https://img.shields.io/badge/Positron-6FB3D2?style=for-the-badge&logo=posit&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![marimo](https://img.shields.io/badge/marimo-358A30?style=for-the-badge&logo=python&logoColor=white)
 
+### 🧠 Machine Learning, Statistics & MLOps
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF0000?style=for-the-badge&logo=yandex&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white) ![skorch](https://img.shields.io/badge/skorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-4158D0?style=for-the-badge&logo=python&logoColor=white) ![PyMC](https://img.shields.io/badge/PyMC-4B8BBE?style=for-the-badge&logo=pymc&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-4A90D9?style=for-the-badge&logo=python&logoColor=white) ![statsforecast](https://img.shields.io/badge/statsforecast-FF6B00?style=for-the-badge&logo=python&logoColor=white) ![scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![pingouin](https://img.shields.io/badge/pingouin-4A90D9?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) <a href="https://cran.r-project.org/package=tidymodels"><img src="assets/r/tidymodels.png" height="44" alt="tidymodels" /></a> <a href="https://cran.r-project.org/package=mlr3"><img src="assets/r/mlr3.png" height="44" alt="mlr3" /></a> <a href="https://cran.r-project.org/package=easystats"><img src="assets/r/easystats.png" height="44" alt="easystats" /></a>
+
 ### 📡 Distributed Compute, Cloud Storage & Data Orchestration
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -95,10 +100,6 @@ Every contribution below links the reported problem, my contribution, and the ve
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![PyArrow](https://img.shields.io/badge/PyArrow-E25A1C?style=for-the-badge&logo=apachearrow&logoColor=white) ![narwhals](https://img.shields.io/badge/narwhals-1A1A2E?style=for-the-badge&logo=python&logoColor=white) ![Ibis](https://img.shields.io/badge/Ibis-596F7E?style=for-the-badge&logo=python&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 <a href="https://cran.r-project.org/package=tidyverse"><img src="assets/r/tidyverse.png" height="44" alt="tidyverse" /></a>
 
-### 🧠 Machine Learning, Statistics & MLOps
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FF0000?style=for-the-badge&logo=yandex&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white) ![skorch](https://img.shields.io/badge/skorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-4158D0?style=for-the-badge&logo=python&logoColor=white) ![PyMC](https://img.shields.io/badge/PyMC-4B8BBE?style=for-the-badge&logo=pymc&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-4A90D9?style=for-the-badge&logo=python&logoColor=white) ![statsforecast](https://img.shields.io/badge/statsforecast-FF6B00?style=for-the-badge&logo=python&logoColor=white) ![scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![pingouin](https://img.shields.io/badge/pingouin-4A90D9?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) <a href="https://cran.r-project.org/package=tidymodels"><img src="assets/r/tidymodels.png" height="44" alt="tidymodels" /></a> <a href="https://cran.r-project.org/package=mlr3"><img src="assets/r/mlr3.png" height="44" alt="mlr3" /></a> <a href="https://cran.r-project.org/package=easystats"><img src="assets/r/easystats.png" height="44" alt="easystats" /></a>
 
 ### 📊 Visualization, Web Apps & Reporting
 
