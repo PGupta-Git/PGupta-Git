@@ -78,7 +78,7 @@ Every contribution below links the reported problem, my contribution, and the ve
 
 ## Certifications
 
-- **Google Cloud Certified Professional Data Engineer** · [verify on Credly](https://www.credly.com/users/pgds)
+- **Google Cloud Certified Professional Data Engineer** · [verify on Credly](https://www.credly.com/badges/a12dadfa-529c-402e-a831-0326d337469d/public_url)
 
 ## Toolbox
 
