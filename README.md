@@ -79,6 +79,10 @@ Every contribution below links the reported problem, my contribution, and the ve
 ## Certifications
 
 - **Google Cloud Certified Professional Data Engineer** · [verify on Credly](https://www.credly.com/badges/a12dadfa-529c-402e-a831-0326d337469d/public_url)
+- **Stanford University: Machine Learning Specialization** · [verify on Coursera](https://coursera.org/share/aa5c2db17638c4d071fbc8688950bfe5)
+- **Pearson: Learn MLOps for Machine Learning** · [verify on Coursera](https://coursera.org/share/68c04e35f5bb09d75d764a114d69f4f9)
+- **IBM: Machine Learning with Python (V2)** · [verify on Credly](https://www.credly.com/badges/c4c2fe8d-601f-4bdb-b44c-a889786d7f85/public_url)
+- **Google Analytics Certification** · [verify on Skillshop](https://skillshop.credential.net/d7784b7c-a1e2-4600-aee2-1e68299bf812#acc.I5fC8Mm0)
 
 ## Toolbox
 
