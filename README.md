@@ -76,6 +76,10 @@ Every contribution below links the reported problem, my contribution, and the ve
 - **Peer-reviewed research:** [A pragmatic, parallel-arm, randomised trial on the effects of two repeated-sprint training protocols on fitness outcomes in semi-professional male soccer players: preliminary report](https://doi.org/10.1080/24733938.2026.2684071), published in *Science and Medicine in Football* (2026) · [Data & Code Repository](https://github.com/PGupta-Git/Gupta_et_al_RST_Paper_Submission)
 - ORCID: <https://orcid.org/0009-0000-0172-4009>
 
+## Certifications
+
+- **Google Cloud Certified Professional Data Engineer** · [verify on Credly](https://www.credly.com/users/pgds)
+
 ## Toolbox
 
 ### 💻 Core Languages, Runtimes & Dev Environments
