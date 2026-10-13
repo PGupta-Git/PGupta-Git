@@ -50,26 +50,33 @@ I build production decision systems from problem framing, statistical modelling,
 
 Every contribution below links the reported problem, my contribution, and the verifiable upstream outcome.
 
-- **[ageron/handson-mlp](https://github.com/ageron/handson-mlp) — community-endorsed Polars migration:** Migrated all notebook exercises across 19 chapters and appendices to Polars, maintaining the [`polars_integration`](https://github.com/PGupta-Git/handson-mlp/tree/polars_integration) branch. The upstream author endorsed the community fork in [Issue #23](https://github.com/ageron/handson-mlp/issues/23); [PR #41](https://github.com/ageron/handson-mlp/pull/41) is open to add the upstream README pointer.
+- **[ageron/handson-mlp](https://github.com/ageron/handson-mlp): companion notebooks for Aurélien Géron's O'Reilly book, [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://homl.info/).**
+  - **Ongoing Polars fork maintenance:** Migrated all notebook exercises across 19 chapters and appendices to Polars and continue to maintain the [`polars_integration`](https://github.com/PGupta-Git/handson-mlp/tree/polars_integration) branch. The author welcomed a maintained Polars version and offered to link it in [Issue #23](https://github.com/ageron/handson-mlp/issues/23); [PR #41](https://github.com/ageron/handson-mlp/pull/41) is open to add the upstream README pointer.
 
-- **[posit-dev/positron](https://github.com/posit-dev/positron) — two fixes merged with credited authorship:**
+- **[moj-analytical-services/ukam_os_builder](https://github.com/moj-analytical-services/ukam_os_builder): UK Ministry of Justice Analytical Services tooling for preparing Ordnance Survey data for UK address matching.**
+  - **Pipeline stage dispatch (merged):** Fixed advertised `extract`, `split`, and `flatfile` stages being rejected by the shared executor. Centralised stage types, preserved source-specific validation, and added fail-closed list-only validation in [PR #47](https://github.com/moj-analytical-services/ukam_os_builder/pull/47), approved and merged on 13 October 2026.
+  - **Offline ABP workflows (open, awaiting review):** Documented local ZIP, extracted CSV, and typed Parquet input through the public API for the integration need raised in [Issue #35](https://github.com/moj-analytical-services/ukam_os_builder/issues/35). Added real integration tests for canonical output, unchanged external inputs, and zero network access in [PR #49](https://github.com/moj-analytical-services/ukam_os_builder/pull/49), validated across Python 3.10 to 3.13.
+
+- **[posit-dev/positron](https://github.com/posit-dev/positron): Posit's data-science IDE, built on Code OSS.** Two fixes merged with credited authorship:
   - **Console button alignment:** Fixed native-button padding reported in [Issue #14155](https://github.com/posit-dev/positron/issues/14155). My [PR #14381](https://github.com/posit-dev/positron/pull/14381) was carried into merged upstream [PR #14445](https://github.com/posit-dev/positron/pull/14445).
   - **Help search keyboard navigation:** Added Enter and Shift+Enter match navigation for [Issue #12921](https://github.com/posit-dev/positron/issues/12921). My [PR #14380](https://github.com/posit-dev/positron/pull/14380) was carried into merged upstream [PR #14444](https://github.com/posit-dev/positron/pull/14444).
 
-- **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) — five defect diagnoses translated into upstream fixes:**
+- **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi): terminal-based AI coding agent with integrated language-server and debugging tools.** Five defect diagnoses translated into upstream fixes:
   - **OpenCode MCP discovery:** Diagnosed array-command coercion and ignored environment keys in [Issue #3180](https://github.com/can1357/oh-my-pi/issues/3180), authored [PR #3181](https://github.com/can1357/oh-my-pi/pull/3181), and received explicit credit when the equivalent fix merged in [PR #3182](https://github.com/can1357/oh-my-pi/pull/3182).
   - **Claude 4.6 provider routing:** Reproduced wire-ID and token-limit failures in [Issue #3067](https://github.com/can1357/oh-my-pi/issues/3067) and authored [PR #3068](https://github.com/can1357/oh-my-pi/pull/3068). The maintainer's merged fix [`47cc464`](https://github.com/can1357/oh-my-pi/commit/47cc46496209e06f89945f9b4515f22e621f71b6) credits the diagnosis and includes a dedicated regression test.
   - **Plan approval model retention:** Identified the incorrect model-index comparison in [Issue #3554](https://github.com/can1357/oh-my-pi/issues/3554); the exact proposed fix merged in [PR #3556](https://github.com/can1357/oh-my-pi/pull/3556).
   - **Linux desktop notifications:** Diagnosed BEL fallback failures on VTE terminals in [Issue #3685](https://github.com/can1357/oh-my-pi/issues/3685) and authored [PR #3686](https://github.com/can1357/oh-my-pi/pull/3686); the production D-Bus solution merged in [PR #3687](https://github.com/can1357/oh-my-pi/pull/3687).
   - **Temporary model thinking overrides:** Diagnosed the role-override failure in [Issue #5290](https://github.com/can1357/oh-my-pi/issues/5290) and authored [PR #5291](https://github.com/can1357/oh-my-pi/pull/5291); the equivalent resolver and regression coverage merged in [PR #5297](https://github.com/can1357/oh-my-pi/pull/5297).
 
-- **[andrewRowlinson/mplsoccer](https://github.com/andrewRowlinson/mplsoccer) — merged visualisation feature & documentation fixes:**
+- **[andrewRowlinson/mplsoccer](https://github.com/andrewRowlinson/mplsoccer): Python library for football visualisation with Matplotlib and loading StatsBomb open data.** Merged visualisation feature and documentation fixes:
   - **Speedometer and gauge charts:** Ported and integrated the [`znstrider/speedo`](https://github.com/znstrider/speedo) `Speedometer` class for [Issue #16](https://github.com/andrewRowlinson/mplsoccer/issues/16) in open [PR #118](https://github.com/andrewRowlinson/mplsoccer/pull/118).
   - **Curved radar labels and resilient documentation builds:** Fixed Wikipedia thumbnail rate-limiting to repair Read the Docs builds, which the maintainer merged with credited authorship in [PR #122](https://github.com/andrewRowlinson/mplsoccer/pull/122). Added vector-glyph curved labels, multi-line layout, and bottom-half auto-flipping for [Issue #35](https://github.com/andrewRowlinson/mplsoccer/issues/35) in merged [PR #120](https://github.com/andrewRowlinson/mplsoccer/pull/120).
 
-- **[brilliantnz/flickernaut](https://github.com/brilliantnz/flickernaut) — merged stability fixes:** Prevented crashes from invalid desktop files and removed duplicate preference entries in merged [PR #9](https://github.com/brilliantnz/flickernaut/pull/9).
+- **[brilliantnz/flickernaut](https://github.com/brilliantnz/flickernaut): GNOME extension for launching development tools from the Nautilus file manager.**
+  - **Stability fixes:** Prevented crashes from invalid desktop files and removed duplicate preference entries in merged [PR #9](https://github.com/brilliantnz/flickernaut/pull/9).
 
-- **[oseymour/ScraperFC](https://github.com/oseymour/ScraperFC) — regression identified and released:** Reported missing FBref team and player identifiers in [Issue #72](https://github.com/oseymour/ScraperFC/issues/72); the maintainer verified the defect and released the requested fix in `v4.1.0`.
+- **[oseymour/ScraperFC](https://github.com/oseymour/ScraperFC): Python package for automated football-data collection from multiple providers.**
+  - **FBref identifier regression:** Reported missing FBref team and player identifiers in [Issue #72](https://github.com/oseymour/ScraperFC/issues/72); the maintainer verified the defect and released the requested fix in `v4.1.0`.
 
 ## Publication & Reproducible Research
 
